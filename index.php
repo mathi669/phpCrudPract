@@ -12,14 +12,14 @@ require_once 'data/db.php';
 </head>
 
 <body>
-    <!-- <h1>Hello word</h1>
+    <!-- <h1>Hello word</h1> -->
     <?php
     // if($conn){
     //     echo "<p>Conexion exitosa<p>";
     // }else{
     //     echo "<p>Conexion fallida<p>";
     // }
-    ?> -->
+    ?>
     <!-- creacion tabla -->
     <div class="container mt-5">
         <h2 class="text-center">Sistema de gestion de empleados</h2>
